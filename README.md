@@ -7,7 +7,9 @@ Key Objectives
 ✔ Data Cleaning & Preprocessing – Handling missing values, removing duplicates, and modifying data types for consistency.
 
 ✔ Exploratory Data Analysis (EDA) – Understanding customer purchase patterns, product performance, and sales trends.
+
 ✔ Visualizing Sales Data – Using Python and Power BI to create dynamic reports and dashboards.
+
 ✔ Business Insights & Recommendations – Identifying key factors driving sales and optimizing marketing efforts accordingly.
 
 Insights & Findings
